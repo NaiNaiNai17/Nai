@@ -15,7 +15,7 @@
 -Containerization (Docker, Kubernetes & co)
 -All Things Server,Database and API I can
 
-## I want to learn RUST in 2022. The community around the language is vibrant online, and it's use aligns with interest. 
+## I want to learn RUST in 2022. The community around the language is vibrant online, and its use aligns with interest. 
 
  -Write me @ Fowler.Naimah@gmail.com
  -I'm also here

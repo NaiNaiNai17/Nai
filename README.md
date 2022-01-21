@@ -17,6 +17,6 @@
 
 # I want to learn RUST in 2022. The community around the language is vibrant online, and it's use aligns with interest. 
 
-# Write me @ Fowler.Naimah@gmail.com
+ Write me @ Fowler.Naimah@gmail.com
 I also have a LinkedIn
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&url=https://www.linkedin.com/in/nai-fowler/)
+

@@ -4,6 +4,8 @@
 ## Hey, My Name is Nai(She/They), and I'm originally from New York,NY && Berlin is home.💫🏳️‍🌈
 
 ## Technologies I'm comfortable with
+-Kotlin
+-Spring
 -Javascript
 -REACT JS framework
 -NODE JS

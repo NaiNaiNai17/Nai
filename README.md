@@ -1,24 +1,21 @@
 
-## Feeling Fresh,Un-Jaded and Excited about Code. I started building REST APIS and now I'm hooked 🔥
+## You'll mostly find old stuff here as I haven't used Javascript in a long while. 
 
-## Hey, My Name is Nai(She/They), and I'm originally from New York,NY && Berlin is home.💫🏳️‍🌈
+## Hey, My Name is Nai(She/They), and I'm originally from New York,NY && Berlin is home. I have a day job as a backend dev in fintech. Currently interested in learning Rust 💫
 
-## Technologies I'm comfortable with
+## Technologies I use daily in my professional life
 -Kotlin
 -Spring
--Javascript
--REACT JS framework
--NODE JS
--Express
--NoSql
--and of course GIT ☺️
+-Java
+-Postgres
+-Project Reactor
+-Clean Architecture
 
 ## Things I am currently eagerly learning
--Containerization (Docker, Kubernetes & co)
--All Things Server,Database and API I can
+- Rust
 
 
  -Write me @ Fowler.Naimah@gmail.com
- -I'm also here
+ -I deactivated all social media so you won't currently find me on linked in 
  -[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/nai-fowler/)
 
